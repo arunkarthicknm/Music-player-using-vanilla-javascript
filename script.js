@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Anbil-Avan','The weeknd-starboy','June-pona','Dhimu-Dhimu','Kodana-Kodi','Oru-Naalaikkul'];
+const songs = ['Anbil-Avan','The weeknd-starboy','June-Pona','Dhimu-Dhimu','Kodana-Kodi','Oru-Naalaikkul'];
 
 // Keep track of song
 let songIndex = 0;
